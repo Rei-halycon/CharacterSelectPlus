@@ -1,4 +1,3 @@
 - title: "Flow"
-  url: "\docs\Flow.md"
+  url: "docs\Flow.md"
   tab: true # opens this link in a new tab
-  id: FlowID # will be used as a parent item
