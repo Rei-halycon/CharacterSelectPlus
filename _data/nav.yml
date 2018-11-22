@@ -1,4 +1,4 @@
-- title: "Test Title"
-url: "docs/flow.md"
-tab: true
-id: FlowID
+- title: "Flow"
+  url: "\docs\Flow.md"
+  tab: true # opens this link in a new tab
+  id: FlowID # will be used as a parent item
