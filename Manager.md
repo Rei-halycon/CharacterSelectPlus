@@ -29,3 +29,18 @@ The Manager is used Primarily internally for multiplayer support.
 
 Use the Add Component drop down button(big green button top left) in your player controller 
 too add a CSP Manager.
+
+## Registering the Player
+
+To register a player to be able to interact with the character select widget
+you must call a function from the Manager Component called RegisterPlayer.
+
+Note: if a player tries to send an action to the Character Select System 
+with out first registering, the input will fail and you will recieve an error 
+in your log.
+
+Multiplayer note: When registering your system make sure to do this on the server
+side.
+
+// insert image here
+
