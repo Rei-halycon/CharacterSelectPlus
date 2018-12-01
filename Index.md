@@ -1,4 +1,7 @@
-
+---
+menu: MenuMain
+tab: true
+---
 
 # Main menu
 
