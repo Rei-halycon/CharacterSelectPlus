@@ -1,7 +1,7 @@
 ---
 menu: LoadingDisplay 
 tab: false
-parent: Setup.md
+parent: ManagerSetup.md
 weight: 3
 ---
 # Loading the Display

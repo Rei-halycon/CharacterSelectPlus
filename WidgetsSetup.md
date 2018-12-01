@@ -1,7 +1,7 @@
 ---
 menu: SettingUpTheWidgets 
 tab: false
-parent: Setup.md
+parent: LoadingTheDisplay.md
 weight: 2
 ---
 
