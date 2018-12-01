@@ -1,7 +1,7 @@
 ---
 menu: SettingUpTheWidgets 
 tab: true
-parent: Setup
+parent: Setup.md
 ---
 
 # Setting up the Widgets
