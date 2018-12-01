@@ -1,5 +1,5 @@
 ---
-menu: Manager Setup 
+menu: ManagerSetup 
 tab: false
 parent: Setup.md
 ---
