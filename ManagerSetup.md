@@ -2,6 +2,7 @@
 menu: ManagerSetup 
 tab: false
 parent: Setup.md
+weight: 1
 ---
 
 # Setting up the System

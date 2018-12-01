@@ -2,6 +2,7 @@
 menu: SettingUpTheWidgets 
 tab: false
 parent: Setup.md
+weight: 2
 ---
 
 # Setting up the Widgets
