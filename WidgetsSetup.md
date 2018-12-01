@@ -67,7 +67,7 @@ Here is an example of what it could look like for a basic slot.
 Finally once again create another blueprint class, select CSP_Badge and create it, open the badge up and this will also request a
 widget bind for Image called "BadgeIcon" add the Image too your canvas and name it "BadgeIcon", it will look something like this.
 <br/><br/>
-![Alt text](Image/BadgeIcon.png?raw=true "ManagerNode")
+![Alt text](Image/BadgeIcon1.png?raw=true "ManagerNode")
 <br/><br/>
 
 ## Assigning our Slot & Badge class to our system
