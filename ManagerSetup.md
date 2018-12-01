@@ -1,6 +1,7 @@
 ---
-menu: SettingUpTheSystem 
+menu: Manager Setup 
 tab: false
+Parent: Setup.md
 ---
 
 # Setting up the System
