@@ -1,6 +1,6 @@
 ---
 menu: Setup 
-tab: true
+tab: false
 ---
 
 # How to set the system up

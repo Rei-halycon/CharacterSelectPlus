@@ -1,6 +1,6 @@
 ---
 menu: SettingUpTheWidgets 
-tab: true
+tab: false
 parent: Setup.md
 ---
 

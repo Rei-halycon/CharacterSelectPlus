@@ -1,6 +1,6 @@
 ---
 menu: LoadingTheDisplay 
-tab: true
+tab: false
 ---
 # Loading the Display
 In this section we will cover how to load your character data and populate your
