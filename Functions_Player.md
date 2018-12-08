@@ -33,8 +33,25 @@ A good example of use for this is when you want to pause a player's ability to i
 where taking turns picking there character.
 <br/><br/>
 ### Get Player Input Badge
-<br/><br/>
 ![Alt text](Image/Func_GetPlayerInputBadge.png?raw=true "ManagerNode")
+<br/><br/>
 Get Player Move Badge returns a bool letting you know if this player is able to send input to the 
 character select system to move there badge or input / cancel.
+<br/><br/>
+### Get Player Input Badge
+![Alt text](Image/Func_GetPlayerBadgeNumber.png?raw=true "ManagerNode")
+<br/><br/>
+Gets the Players assigned badge number, you can consider this the Player Order number, used for things
+like Player 1, Player 2 etc, or you can use your own system.
+<br/><br/>
+### Set Player Character States
+![Alt text](Image/Func_SetPlayerCharStates.png?raw=true "ManagerNode")
+<br/><br/>
+Allows you to a players character states, a good example of use of this would be if you wanted
+to load a list of characters the player has unlocked.
+<br/><br/>
+### Get Player Character States
+![Alt text](Image/Func_GetPlayerCharStates.png?raw=true "ManagerNode")
+<br/><br/>
+Gets the Players Character states.
 <br/><br/>
