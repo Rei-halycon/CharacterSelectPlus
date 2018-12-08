@@ -33,6 +33,7 @@ A good example of use for this is when you want to pause a player's ability to i
 where taking turns picking there character.
 <br/><br/>
 ### Get Player Input Badge
+<br/><br/>
 ![Alt text](Image/Func_GetPlayerInputBadge.png?raw=true "ManagerNode")
 Get Player Move Badge returns a bool letting you know if this player is able to send input to the 
 character select system to move there badge or input / cancel.
