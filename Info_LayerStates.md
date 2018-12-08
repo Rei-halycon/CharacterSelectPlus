@@ -1,6 +1,6 @@
 ---
 menu: CharacterLayerStates 
 tab: false
-parent: info.md
+parent: Info.md
 weight: 1
 ---
