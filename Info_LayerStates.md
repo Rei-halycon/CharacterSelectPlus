@@ -9,7 +9,7 @@ weight: 1
 <br/><br/>
 ### The Layers
 
-Layer 4 | Development Character States, an extra layer used to override everything.
+>Layer 4 | Development Character States, an extra layer used to override everything.
 <br/><br/>
 Layer 3 | Global Character States, Useful for banning, gamemode etc.
 <br/><br/>
@@ -17,7 +17,7 @@ Layer 2 | Live Character States, that can be set by the Authority, apply to ever
 <br/><br/>
 Layer 1 | Player Character States, these only apply too the player.
 <br/><br/>
-Layer 0 | everything is assumed to be available for selection.
+>Layer 0 | everything is assumed to be available for selection.
 <br/><br/>
 
 ### Priority 
