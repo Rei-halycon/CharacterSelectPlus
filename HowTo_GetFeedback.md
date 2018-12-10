@@ -16,13 +16,11 @@ choose to do.
 The signature for the function is as follows:
 <br/><br/>
 (a signature is the type of paramaters a function uses, they must be in the correct order)
-
->StateWrapper[FCPS_StateWrapper] - struct
-<br/><br/>
+```
+StateWrapper[FCPS_StateWrapper] - struct
 Action[ECSP_Action] - Enum
-<br/><br/>
->Controller[AController] - Controller
-
+Controller[AController] - Controller
+```
 ![Alt text](Image/Feedback_Sig1.png?raw=true "ManagerNode")
 ![Alt text](Image/Feedback.png?raw=true "ManagerNode")
 <br/><br/>
