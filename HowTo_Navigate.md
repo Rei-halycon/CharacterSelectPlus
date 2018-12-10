@@ -14,7 +14,6 @@ your A and B buttons on a controller to go forward and back.
 
 Once a Player is registered with the system with there player controller they are able
 to send input too the display, this can be done by using the Send Action Input function.
-
 <br/><br/>
 ![Alt text](Image/SendInputAction.png?raw=true "ManagerNode")
 <br/><br/>
