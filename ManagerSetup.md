@@ -54,11 +54,7 @@ you must call a function from the Manager Component called RegisterPlayer.
 Note: if a player tries to send an action to the Character Select System 
 with out first registering, the input will fail and you will recieve an error 
 in your log.
-
-
 <br/><br/>
 ![Alt text](Image/RegisterController.png?raw=true "ManagerNode")
-
-
 Multiplayer note: When registering your system make sure to do this on the server
 side.

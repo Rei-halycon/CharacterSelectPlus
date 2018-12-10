@@ -39,4 +39,4 @@ Now when ever i use trys to interact or cancel this function will fire and give 
 payload of information for you to use.
 note: only bind feedback on authority.
 <br/><br/>
-![Alt text](Image/Bindfeedback.png?raw=true "ManagerNode")
+![Alt text](Image/BindFeedback.png?raw=true "ManagerNode")

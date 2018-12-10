@@ -17,4 +17,5 @@ to send input too the display, this can be done by using the Send Action Input f
 
 <br/><br/>
 ![Alt text](Image/SendInputAction.png?raw=true "ManagerNode")
+<br/><br/>
 Here you can send your navigation inputs and movement.
