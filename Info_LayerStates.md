@@ -17,10 +17,10 @@ weight: 1
 >Layer 1 | Player Character States, these only apply too the player.
 <br/><br/>
 >Layer 0 | everything is assumed to be available for selection.
+
 <br/><br/>
 
 ### Priority 
-<br/><br/>
 By default the system assumes everything is avalaible, and respects the layering order, what this 
 means is that the highest layer is the final state, layers do not have to contain data they can 
 be empty, this just assumes that the character for that layer is avalaible. 
